@@ -1,0 +1,49 @@
+body {
+    background-color: #000000;
+    color: #F6F6F6;
+    font-family: 'Audiowide', sans-serif;
+}
+
+strong {
+    color: #22D4FD;
+}
+
+.instagram-btn {
+    background-color: #00bcd4; 
+    color: #000; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    display: inline-block;
+}
+
+.github-btn {
+    background-color: #00bcd4; 
+    color: #000; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.instagram-btn:hover, .github-btn:hover {
+    background-color: #0097a7;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-content {
+    margin-left: 50px;
+    width: 60%; 
+}
+
+.profile-image {
+    margin-right: 30px;
+    margin-top: 50px;
+    width: 30%; 
+    float: right; 
+}
