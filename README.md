@@ -1,5 +1,5 @@
 # Desenvolvimento-Front-End--Primeiros-Passos
-Repositório de projetos criados como exemplo na Imersão Front-End da Alura em janeiro de 2024, utilizando como tecnologias o HTML5, o CSS e o JavaScript. Consiste em um projeto criado a partir do uso do Figma, e outros dois baseados na recriação da página inicial do Spotify, sendo que um deles utiliza a biblioteca React do JavaScript como Framework.
+Repositório de projetos criados como exemplo na Imersão Front-End da Alura em janeiro de 2024, utilizando como tecnologias o HTML5, o CSS e o JavaScript. Consiste em um projeto criado a partir do uso do Figma, e outros dois baseados na recriação da página inicial do Spotify, sendo que um deles utiliza a biblioteca React do JavaScript como Framework. Além disso, há um quiz de JavaScript, criado durante o evento NLW Expert em fevereiro de 2024.
 
 ### Instruções para a execução da API, em Spotify-Site:
 
